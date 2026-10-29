@@ -1,0 +1,18 @@
+=== Gestion des produits ===
+
+Produit ajouté : Ordinateur
+Produit ajouté : Souris
+Produit ajouté : Clavier
+
+Liste des produits :
+1 - Ordinateur - 7500 DH
+2 - Souris - 150 DH
+3 - Clavier - 250 DH
+
+Recherche : Souris
+
+Suppression du produit 2
+
+Liste finale :
+1 - Ordinateur
+3 - Clavier

@@ -1,0 +1,2 @@
+=== Gestion des notifications ===
+[EMAIL] Votre commande a été confirmée.
